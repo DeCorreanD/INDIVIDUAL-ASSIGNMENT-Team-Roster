@@ -1,0 +1,66 @@
+{
+  "-NMK-Ch-hkPixtannqZG": {
+  "firebaseKey": "-NMK-Ch-hkPixtannqZG",
+    "name": "Monkey D. Luffy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518",
+    "role": "Muscle",
+    "favorite": true,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-Ch2MVHLAaG3bEOJ": {
+    "firebaseKey": "-NMK-Ch2MVHLAaG3bEOJ",
+    "name": "Naruto Uzumaki",
+    "image": "https://cdn.staticneo.com/w/naruto/Nprofile2.jpg",
+    "role": "Spirit",
+    "favorite": false,
+     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-Ch4Rrur1GnnXa6f": {
+    "firebaseKey": "-NMK-Ch4Rrur1GnnXa6f",
+    "name": "Son Goku ",
+    "image": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
+    "role": "Leader",
+    "favorite": true,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-Ch7g2lNSvT2xeIn": {
+    "firebaseKey": "-NMK-Ch7g2lNSvT2xeIn",
+    "name": "Spike Spiegel",
+    "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Spike-Spiegel.Cowboy-Bebop.webp",
+    "role": "Badass",
+    "favorite": true,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-Ch9CpyLrgqCNnoW": {
+    "firebaseKey": "-NMK-Ch9CpyLrgqCNnoW",
+    "name": "Prince Vegeta",
+    "image": "https://wallpapercave.com/uwp/uwp1528627.jpeg",
+    "role": "Tactician",
+    "favorite": false,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-ChCNOeU0K65TUDX": {
+    "firebaseKey": "-NMK-ChCNOeU0K65TUDX",
+    "name": "Tanjiro Kamado",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/07/Tanjiro_colored_body_4.png/revision/latest?cb=20230117091004",
+    "role": "Heart",
+    "favorite": true,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-ChE8K7oATXuUxEv": {
+    "firebaseKey": "-NMK-ChE8K7oATXuUxEv",
+    "name": "Levi Ackerman",
+    "image": "https://static.wikia.nocookie.net/p__/images/c/c3/LeviAckerman854FullBodyAnime.png/revision/latest?cb=20220323131847&path-prefix=protagonist",
+    "role": "Badass",
+    "favorite": false,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  },
+  "-NMK-ChGBKVa7JYxx4qD": {
+    "firebaseKey":  "-NMK-ChGBKVa7JYxx4qD",
+    "name": "Eren Yeager",
+    "image": "https://static.wikia.nocookie.net/villains/images/4/4c/Eren_meets_Yeagerists.png/revision/latest?cb=20210302172340",
+    "role": "Tactician",
+    "favorite": true,
+    "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
+  }
+}

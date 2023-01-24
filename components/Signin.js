@@ -14,7 +14,7 @@ function Signin() {
       }}
     >
       <h1>Hello My Fellow Weebs!</h1>
-      <p>💀 Click the button below if Goku is overrated! & to sign in I guess 💀</p>
+      <p> Click the button below if Goku is overrated! & to sign in I guess </p>
       <Button type="button" size="lg" className="copy-btn" onClick={signIn}>
         Sign In
       </Button>

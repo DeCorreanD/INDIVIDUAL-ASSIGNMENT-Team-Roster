@@ -3,7 +3,7 @@ import { clientCredentials } from '../../utils/client';
 const dbUrl = clientCredentials.databaseURL;
 
 // GET All Anima
-const getMember = (uid) => new Promise((resolve, reject) => {
+const getMembers = (uid) => new Promise((resolve, reject) => {
   fetch(`${dbUrl}/anima.json?orderBy="uid"&equalTo="${uid}"`, {
     method: 'GET',
     headers: {
@@ -87,5 +87,5 @@ const favMember = (uid) => new Promise((resolve, reject) => {
     .catch(reject);
 });
 export {
-  getMember, createMember, getSingleMember, deleteMember, updateMember, favMember,
+  getMembers, createMember, getSingleMember, deleteMember, updateMember, favMember,
 };

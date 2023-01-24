@@ -2,9 +2,10 @@
   "-NMK-Ch-hkPixtannqZG": {
   "firebaseKey": "-NMK-Ch-hkPixtannqZG",
     "name": "Monkey D. Luffy",
-    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518",
+    "image": "https://assets-prd.ignimgs.com/2022/08/17/1-monkey-d-luffy-1660778366362.jpeg?fit=bounds&width=1280&height=720",
     "role": "Muscle",
     "favorite": true,
+    "description":"With his instantly recognizable straw hat, blue pants, and red jacket, the young leader of the Straw Hat Pirates is a powerful fighter and comes from a line of revolutionaries. His bravery and recklessness both endear and endanger those around him.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-Ch2MVHLAaG3bEOJ": {
@@ -13,14 +14,16 @@
     "image": "https://cdn.staticneo.com/w/naruto/Nprofile2.jpg",
     "role": "Spirit",
     "favorite": false,
+    "description":"The spirited, ramen-loving orphan is one of anime's most recognizable and highly thought of figures. Though he started his journey  (like many of us)  as a beginner who struggled to find his footing, thanks to his dedication he became a powerful ninja.",
      "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-Ch4Rrur1GnnXa6f": {
     "firebaseKey": "-NMK-Ch4Rrur1GnnXa6f",
     "name": "Son Goku ",
-    "image": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
+    "image": "https://assets-prd.ignimgs.com/2022/08/17/5-goku-1660778366361.jpg?fit=bounds&width=1280&height=720",
     "role": "Leader",
     "favorite": true,
+    "description":"His heroism, strength, and dedication make him the perfect core for a kids show where the themes are meant to be pretty simple. He may not be the most complex character in anime history, but he's perfect for the goal he was meant to accomplish.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-Ch7g2lNSvT2xeIn": {
@@ -29,6 +32,7 @@
     "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Spike-Spiegel.Cowboy-Bebop.webp",
     "role": "Badass",
     "favorite": true,
+    "description":"Combine Bruce Lee's martial arts, a little Lupin III, a heavy dose of film noir, and a dash of cool, and you've got Spike Spiegel. Spike was an amalgamation of influences, and the result was a creation greater than the sum of its parts.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-Ch9CpyLrgqCNnoW": {
@@ -37,30 +41,34 @@
     "image": "https://wallpapercave.com/uwp/uwp1528627.jpeg",
     "role": "Tactician",
     "favorite": false,
+    "description": " Vegeta started out as the typical bad guy, but over the course of his history he switched sides and became first a hesitant ally, then a frenemy, and also a loving father. Still, he couldn't quit being bad cold-turkey, and there were times when he went back to his old ways. But at the heart of his wicked deeds was a deeply rooted inferiority complex; he was the prince of the Saiyans.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-ChCNOeU0K65TUDX": {
     "firebaseKey": "-NMK-ChCNOeU0K65TUDX",
     "name": "Tanjiro Kamado",
-    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/07/Tanjiro_colored_body_4.png/revision/latest?cb=20230117091004",
+    "image": "https://assets-prd.ignimgs.com/2022/08/17/12-tanjiro-1660778366362.jpeg?fit=bounds&width=1280&height=720",
     "role": "Heart",
     "favorite": true,
+    "description":"Tanjiro is compassionate and sweet, his heroism driven by love as well as vengeance. His empathetic nature gives him an upper hand as he can even find connections with the monsters he kills.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-ChE8K7oATXuUxEv": {
     "firebaseKey": "-NMK-ChE8K7oATXuUxEv",
     "name": "Levi Ackerman",
-    "image": "https://static.wikia.nocookie.net/p__/images/c/c3/LeviAckerman854FullBodyAnime.png/revision/latest?cb=20220323131847&path-prefix=protagonist",
+    "image": "https://assets-prd.ignimgs.com/2022/08/17/18-levi-ackerman-1660778366362.jpeg?fit=bounds&width=1280&height=720",
     "role": "Badass",
     "favorite": false,
+    "description":"A strategic superpower, Levi is one of the smartest and most clinical thinkers in anime history. It's not hyperbolic to say that Attack on Titan has been something of a cultural phenomenon, but Levi is the only character who made it onto our list.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   },
   "-NMK-ChGBKVa7JYxx4qD": {
     "firebaseKey":  "-NMK-ChGBKVa7JYxx4qD",
     "name": "Eren Yeager",
-    "image": "https://static.wikia.nocookie.net/villains/images/4/4c/Eren_meets_Yeagerists.png/revision/latest?cb=20210302172340",
+    "image": "https://static.wikia.nocookie.net/senkizesshousymphogear/images/9/9c/Eren_2.png/revision/latest/scale-to-width-down/300?cb=20200320034935",
     "role": "Tactician",
     "favorite": true,
+    "description":"Eren was best described as hardheaded, strong-willed, passionate, and impulsive, which are attributes of both his strong determination to protect mankind and, eventually, his equally strong determination to escape the Walls.",
     "uid": "5ySYVLaC7VNqwdklMgohAriU1JG3"
   }
 }

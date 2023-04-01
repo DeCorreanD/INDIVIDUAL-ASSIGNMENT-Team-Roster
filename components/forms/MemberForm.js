@@ -94,11 +94,10 @@ function MemberForm({ obj }) {
 MemberForm.propTypes = {
   obj: PropTypes.shape({
     description: PropTypes.string,
+    name: PropTypes.string,
     image: PropTypes.string,
-    price: PropTypes.string,
-    sale: PropTypes.bool,
-    title: PropTypes.string,
-    author_id: PropTypes.string,
+    favorite: PropTypes.bool,
+    role: PropTypes.string,
     firebaseKey: PropTypes.string,
   }),
 };

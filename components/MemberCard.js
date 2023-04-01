@@ -29,11 +29,11 @@ function MemberCard({ memberObj, onUpdate }) {
         </p>
         <p>{memberObj.description}</p>
         {/* DYNAMIC LINK TO VIEW THE BOOK DETAILS  */}
-        <Link href={`/member/${memberObj.firebaseKey}`} passHref>
+        {/* <Link href={`/member/${memberObj.firebaseKey}`} passHref>
           <Button variant="primary" className="m-2">
             VIEW
           </Button>
-        </Link>
+        </Link> */}
         {/* DYNAMIC LINK TO EDIT THE BOOK DETAILS  */}
         <Link href={`/member/edit/${memberObj.firebaseKey}`} passHref>
           <Button variant="info">EDIT</Button>

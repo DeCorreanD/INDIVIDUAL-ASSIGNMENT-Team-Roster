@@ -23,9 +23,6 @@ export default function NavBar() {
             <Link passHref href="/member/new">
               <Nav.Link>Create Members</Nav.Link>
             </Link>
-            <Link passHref href="/member/favorite">
-              <Nav.Link>Favorite Members</Nav.Link>
-            </Link>
             <Link passHref href="/profile">
               <Nav.Link>Profile Page</Nav.Link>
             </Link>
